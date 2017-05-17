@@ -285,7 +285,7 @@ To set your computer's clock just set it to match an atomic clock on the interne
  
 We'll talk about how Network Time Protocol (NTP) sets your clock to the correct time despite the laws of physics making that impossible to do and human nature making it dangerous to even try.
 
-**Joel** is a developer, cyclist, and maker in Brooklyn and he knows what a cliché he sounds like but he's okay with that. He spends his days building things at [Postlight Studios](https://postlight.com/).
+**Joel** is a developer, cyclist, and maker in Brooklyn and he knows what a cliché he sounds like but he's okay with that.
 
 ---
 
